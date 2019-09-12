@@ -1,0 +1,75 @@
+.ce{
+	text-align: center;
+	background-color: #b2beb5;
+	color: black;
+}
+h4{
+	color: black;
+}
+.display-4{
+text-align: center;
+}
+.lead{
+	text-align: center;
+	font-size: 20px;
+}
+.h{
+	background-image: url("./ayudhajumbotronpic.jpg");
+	background-image: cover;
+	background-repeat: no-repeat;
+	font-size: 20px;
+	color: black;
+	background-position: center;
+	border: solid green 5px;
+	background-color: #ECC186;
+
+}
+.card-text{
+	background-color:#b2beb5;
+	color: black;
+}
+.card{
+	margin-left: 150px;
+
+}
+.ok{
+	margin-left: 600px;
+}
+body{
+	background-image: url(./bg.jpg);
+}
+h1{
+	text-align: center;
+	padding-top: 10px;
+	color: white;
+}
+
+.ima
+{
+	margin-left:240px;
+
+}
+.margin{
+	margin-left: 200px;
+}
+.ke
+{
+	padding-top: 40px;
+}
+.bla{
+	padding-top: 40px;
+	text-align: center;
+	margin-left: 400px;
+}
+.center{
+	margin-left: 320px;
+
+}
+h2{
+	color: black;
+}
+.j{
+	background-color:#17203D;
+	text-align:center;
+}
+
